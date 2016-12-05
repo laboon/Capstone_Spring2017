@@ -34,7 +34,7 @@ This work will be a part of the LensKit project, which is an open-source toolkit
 
 These are projects working with the open-source community.
 
-_Haiku_: Helping develop the Haiku operating system, an open-source version of BeOS. (POC: Alex)
+_Haiku_: Helping develop the Haiku operating system, an open-source version of BeOS. Note that there can be multiple groups working on this project, as long as they are working on different ideas (see below for list). (POC: Alex)
 
 Description: Potential ideas - https://www.haiku-os.org/community/gsoc/2016/ideas
 
