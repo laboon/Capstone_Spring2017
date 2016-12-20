@@ -6,7 +6,7 @@ These are projects where you will be working directly with a company.  Note - if
 
 _NetApp_: TBD (POC: Chuck Heinle)
 
-_Viz_: NOT DEFINITE YET (POC: TBD)
+_Viz_: TBD (POC: Mike Bigrigg)
 
 _Swedish Company_: TBD (POC: Dr. Nina Dzamashvili Fogelström, Blekinge Tekniska Högskola (Blekinge Institute of Technology))
 
@@ -22,23 +22,17 @@ _LensKit Recommendation System_: Provide a web dashboard to show status of a lar
 
 _Cellular Image Analysis_: (NOT DEFINITE YET) Write software for image analysis project assembling a computational pipeline to extract data from live cell movies (POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh)
 
-_ASL Dictionary_: (POC: Debra Hast, Less-Commonly-Taught Languages Center)
-
-Details:
-
-This project is to develop a web-based dashboard for monitoring the progress of large, data-intensive experiments in recommender systems. These experiments involve testing many algorithms on large data sets, can take hours to days to complete, and users need to be able to see what has been done, what is currently in-progress, and what work is left to do. No recommender systems experience is necessary.
- 
-This work will be a part of the LensKit project, which is an open-source toolkit for building, researching, and learning about recommender systems. Lenskit provides extensive facilities for running experiments, but they currently run until they are done and output some logging information. The new dashboard will make it easier for LensKit's users to monitor the progress of their experiments.
+_ASL Dictionary_: Provide a secure dictionary app for American Sign Language 1 and 2 students to use at the University of Pittsburgh. (POC: Debra Hast, Less-Commonly-Taught Languages Center)
 
 ### Open-Source Projects
 
 These are projects working with the open-source community.
 
-_Haiku_: Helping develop the Haiku operating system, an open-source version of BeOS. Note that there can be multiple groups working on this project, as long as they are working on different ideas (see below for list). (POC: Alex)
+_Haiku_: Help develop the Haiku operating system, an open-source version of BeOS. Note that there can be multiple groups working on this project, as long as they are working on different ideas (see below for list). (POC: Alex)
 
 Description: Potential ideas - https://www.haiku-os.org/community/gsoc/2016/ideas
 
-_rst_: (NOT DEFINITE YET) Helping develop a requirements tracking tool for developers, in Rust. (POC: )
+_rst_: Develop a requirements tracking tool for developers, in Rust. (POC: Garrett Vitiral)
 
 Details: https://github.com/vitiral/rst
 
