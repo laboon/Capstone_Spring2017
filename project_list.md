@@ -14,6 +14,8 @@ _Swedish Company_: TBD (POC: Dr. Nina Dzamashvili Fogelström, Blekinge Tekniska
 
 These are projects working with academic faculty, either at the University of Pittsburgh or elsewhere.
 
+_Spider Robot_: The CS department has a spider robot. This robot consists of six legs where each leg consists of 3 servo motors. The main goal of this project is give the spider robot an ability to walk around in any directions using a remote control such as a joystick. Students who work on this project are required to update some hardware such as micro controller unit (Raspberry pi, Arduino, etc) and servo motor controllers to ensure that the robot is in a good working condition. Then students must write a program (C/Python) to control all 18 servo motors to work synchronously and ensure that the robot can walk around without falling down. (POC: Dr. Thumrongsak Kosiyatrakul (Tan), University of Pittsburgh Computer Science Department)
+
 _Sterile Compound Training in Augmented/Virtual Reality_: An augmented/virtual reality game for Pharmacy students to learn how to deal with sterile compounding. (POC: Dr. Ravi Patel, University of Pittsburgh School of Pharmacy)
 
 _Pharmacy Quiz Game_: Adding additional features and moving away from Google Ap Engine to new platform (perhaps Docker on AWS?). (POC: Dr. Ravi Patel, University of Pittsburgh School of Pharmacy)
@@ -32,7 +34,7 @@ _Haiku_: Help develop the Haiku operating system, an open-source version of BeOS
 
 Description: Potential ideas - https://www.haiku-os.org/community/gsoc/2016/ideas
 
-_rst_: Develop a requirements tracking tool for developers, in Rust. (POC: Garrett Vitiral)
+_rst_: Develop a requirements tracking tool for developers, in Rust and Elm.  Projects could include developing the front end, adding test tracking, or making the back-end concurrent.  Great if you are interested in systems engineering or looking to learn a new functional programming language. (POC: Garrett Vitiral)
 
 Details: https://github.com/vitiral/rst
 
