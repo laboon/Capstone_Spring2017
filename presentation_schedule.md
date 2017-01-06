@@ -25,7 +25,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 3 Feb 2017
-
+  *Samuel Nigh
 
 
 
@@ -35,7 +35,9 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 24 Mar 2017
-  *Maurice enkins
+
+  * Maurice Jenkins
+  * Anthony Poerio
 
 
 
