@@ -22,6 +22,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 ### 20 Jan 2017
 
+ * Therese Dachille 
 
 
 ### 3 Feb 2017
@@ -35,7 +36,6 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 24 Mar 2017
-  * Anthony Poerio
 
 
 
