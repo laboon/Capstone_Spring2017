@@ -1,10 +1,10 @@
 ## Possible Projects for CS1980/CS1640(Project) Students
 
-Please email me your top THREE choices by Wednesday (11 Jan) morning at 11:59 AM (i.e., right before noon).  Please list them in the order that you prefer them.  You will be informed as to your project during the next Capstone class on Friday 13 Jan.  If you do not email me by then, I will assume you do not care which project you are on and I will place you on whichever one that still need people.
+Please email me your top THREE choices by Wednesday (11 Jan) morning at 11:59 AM (i.e., right before noon).  Please list them in the order that you prefer them.  You will be informed as to your project during the next Capstone class on Friday 13 Jan.  If you do not email me by then, I will assume you do not care which project you are on and I will place uncommitted students on whichever projects still need people.
 
-Along with your selections, please include any qualifications you have that for that specific project.  For example, if you have done mobile development, and you are signing up for the ASL dictionary project, please mention that.  Remember that you are "interviewing" for the project against others, especially if you have selected popular projects.  You may want to add a resume, although that is not strictly necessary.  Students who respond early also show enthusiasm for the projects, which goes a long way to showing that they actually want to do them.
+Along with your selections, please include any qualifications you have that for those specific projects.  For example, if you have done mobile development, and you are signing up for the ASL dictionary project, mention any mobile projects you have worked on.  Remember that you are "interviewing" for the project against others, especially if you have selected popular projects.  You may want to add a resume, although that is not strictly necessary.  Students who respond early also show enthusiasm for the projects, which goes a long way to showing that they actually want to do them.
 
-I will attempt to place you in one of your top three choices.  Last semester, every student got into one of their top three, although I do not make any guarantees.
+I will attempt to place you in one of your top three choices.  Last semester, every student got into one of their top three (and a majority into their #1 choice), although I do not make any guarantees.
 
 ### Industry Projects
 
@@ -43,6 +43,5 @@ _rst_: Develop a requirements tracking tool for developers, in Rust and Elm.  Pr
 Details: https://github.com/vitiral/rst
 
 _Linux kernel tinification_: Minimizing the size of the Linux kernel. Note that you will not need in-depth knowledge of Linux kernel internals or of the C language; the POC is OK with teaching these as you go along. (POC: Josh Triplett)
-
 
 _libav_: Audiovisual encoding/decoding, in C or Rust. C work would involve finding and fixing security issues; Rust work would involve implementing a video codec.  It is the choice of the team which they would like to pursue.  (POC: Luca Barbato)
