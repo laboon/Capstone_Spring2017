@@ -51,7 +51,7 @@ Spring 2017 Syllabus
   * TECH TALK: Software Engineering Institute
 
 7 APR 2017
-  * Presentations (Internship Students)
+  * Project Presentations
   
 14 APR 2017
   * Project Presentations
