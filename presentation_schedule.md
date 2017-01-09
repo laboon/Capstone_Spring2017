@@ -33,7 +33,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
   * Samuel Nigh
   * Katee Coleman
   * Alexander Furst
-
+  * Gabriel Larson
 
 ### 17 Feb 2017
 
@@ -44,7 +44,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
   * Maurice Jenkins
   * Anthony Poerio
-
+  * Chris Thompson
 
 
 ## Project Groups
