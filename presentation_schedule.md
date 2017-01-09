@@ -32,6 +32,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
   * Jonathan Lobo
   * Samuel Nigh
   * Katee Coleman
+  * Gabriel Larson
 
 
 ### 17 Feb 2017
