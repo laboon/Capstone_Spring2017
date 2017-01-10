@@ -18,26 +18,33 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 13 Jan 2017
-
+  * John Johnson
 
 ### 20 Jan 2017
 
-
+  * Mark Steffl
+  * Therese Dachille 
+  * Josh Demusz
+  * Andrew Maguire
 
 ### 3 Feb 2017
 
-
-
+  * Jonathan Lobo
+  * Samuel Nigh
+  * Katee Coleman
+  * Alexander Furst
+  * Gabriel Larson
 
 ### 17 Feb 2017
 
-
+  * Seth Stayer
 
 
 ### 24 Mar 2017
+
+  * Maurice Jenkins
   * Anthony Poerio
-
-
+  * Chris Thompson
 
 
 ## Project Groups
