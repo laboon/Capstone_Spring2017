@@ -26,8 +26,6 @@ _Pharmacy Quiz Game_: A currently existing application, this is an extendible we
 
 _LensKit Recommendation System_: This project is to develop a web-based dashboard for monitoring the progress of large, data-intensive experiments in recommender systems. These experiments involve testing many algorithms on large data sets, can take hours to days to complete, and users need to be able to see what has been done, what is currently in-progress, and what work is left to do. No recommender systems experience is necessary. LensKit is written in Java, using Gradle and Groovy. (POC: Dr. Michael Ekstrand, Boise State University)
 
-_Cellular Image Analysis_: Write software for image analysis project assembling a computational pipeline to extract data from live cell movies.  This would involve integrating some already-existing pieces of a computer vision pipeline, setting it up in a Windows Matlab environment, and adding reporting statistics for single cells and system parallelization. (POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh)
-
 _ASL Dictionary_: Provide a secure dictionary app for American Sign Language 1 and 2 students to use at the University of Pittsburgh.  This would be for mobile phones, preferably both Android and iOS.  Choice of framework and language will be determined by the students in the group. (POC: Debra Hast, Less-Commonly-Taught Languages Center)
 
 ### Open-Source Projects
@@ -45,3 +43,13 @@ Details: https://github.com/vitiral/rst
 _Linux kernel tinification_: Minimizing the size of the Linux kernel. Note that you will not need in-depth knowledge of Linux kernel internals or of the C language; the POC is OK with teaching these as you go along. (POC: Josh Triplett)
 
 _libav_: Audiovisual encoding/decoding, in C or Rust. C work would involve finding and fixing security issues; Rust work would involve implementing a video codec.  It is the choice of the team which they would like to pursue.  (POC: Luca Barbato)
+
+### Bioinformatics-Focused
+
+These projects have a focus on bioinformatics specifically.  Preference is given to BIOSC1640 or CS1640-registered students, or those with a background in bioinformatics or a related discipline.
+
+_Automatic CELPP submission and evaluation_:  CELPP (Continuous Evaluation of Ligand Pose Prediction) is an ongoing competition for evaluating molecular docking workflows.  The task for this project is to implement an automated system for fetching the weekly CELPP challenges, running our workflows, submitting the results, and recording and visualizing in a web-based system the ongoing performance.  Code will be written in Python and Javascript and maintained on GitHub under an open-source license. (POC: Dr. David Koes, Department of Computational & Systems Biology)
+
+_Implementation of MMTF file format in OpenBabel_:  Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structural data quickly and accurately (http://mmtf.rcsb.org). Your task is to implement support for this format in the OpenBabel open-source cheminformatics toolkit (http://openbabel.org).  Code will be written in C++. (POC: Dr. David Koes, Department of Computational & Systems Biology)
+
+_Cellular Image Analysis_: Write software for image analysis project assembling a computational pipeline to extract data from live cell movies.  This would involve integrating some already-existing pieces of a computer vision pipeline, setting it up in a Windows Matlab environment, and adding reporting statistics for single cells and system parallelization. (POC: Dr. Robin Lee, Computational and Systems Biology at the University of Pittsburgh)
