@@ -18,7 +18,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 13 Jan 2017
-  * John Johnson
+_Class Cancelled_
 
 ### 20 Jan 2017
 
@@ -38,7 +38,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 ### 17 Feb 2017
 
   * Seth Stayer
-
+  * John Johnson
 
 ### 24 Mar 2017
 
