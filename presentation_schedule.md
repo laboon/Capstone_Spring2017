@@ -64,7 +64,7 @@ _Class Cancelled_
 
 
 ### 21 Apr 2017
-
+  * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nickolas Taglianetti, Xinhai Xu
 
 
 
