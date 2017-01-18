@@ -47,6 +47,7 @@ _Class Cancelled_
   * Anthony Poerio
   * Chris Thompson
   * Zachary Hankinson
+  * David Robertson
 
 ## Project Groups
 
