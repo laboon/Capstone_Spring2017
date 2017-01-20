@@ -39,6 +39,7 @@ _Class Cancelled_
   * Seth Stayer
   * John Johnson
   * Charlie Hron Weigle
+  * Lauren Thomson
 
 ### 24 Mar 2017
 
@@ -60,7 +61,7 @@ _Class Cancelled_
 
 ###  14 Apr 2017
 
-
+  * Jim Zheng, Pulkit Mittal
 
 
 ### 21 Apr 2017
