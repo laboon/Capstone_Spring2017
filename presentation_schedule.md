@@ -16,16 +16,15 @@ Add your name or group with two spaces and an asterisk before it under your pref
 ## Internship Students
 
 
-
 ### 13 Jan 2017
 _Class Cancelled_
 
 ### 20 Jan 2017
 
-  * Mark Steffl
-  * Therese Dachille 
-  * Josh Demusz
-  * Andrew Maguire
+  * Mark Steffl *
+  * Therese Dachille *
+  * Josh Demusz *
+  * Andrew Maguire *
 
 ### 3 Feb 2017
 
