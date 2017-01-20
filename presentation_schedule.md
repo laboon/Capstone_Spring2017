@@ -18,7 +18,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 13 Jan 2017
-  * John Johnson
+_Class Cancelled_
 
 ### 20 Jan 2017
 
@@ -38,14 +38,16 @@ Add your name or group with two spaces and an asterisk before it under your pref
 ### 17 Feb 2017
 
   * Seth Stayer
-
+  * John Johnson
+  * Charlie Hron Weigle
 
 ### 24 Mar 2017
 
   * Maurice Jenkins
   * Anthony Poerio
   * Chris Thompson
-
+  * Zachary Hankinson
+  * David Robertson
 
 ## Project Groups
 
@@ -64,6 +66,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 ### 21 Apr 2017
 
+  * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
 
 
 
