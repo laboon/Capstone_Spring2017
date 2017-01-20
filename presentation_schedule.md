@@ -40,6 +40,7 @@ _Class Cancelled_
   * Seth Stayer
   * John Johnson
   * Charlie Hron Weigle
+  * Lauren Thomson
 
 ### 24 Mar 2017
 
