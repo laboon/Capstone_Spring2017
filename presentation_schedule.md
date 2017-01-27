@@ -40,6 +40,7 @@ _Class Cancelled_
   * John Johnson
   * Charlie Hron Weigle
   * Lauren Thomson
+  * Charlie Laymon
 
 ### 24 Mar 2017
 
