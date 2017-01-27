@@ -62,6 +62,7 @@ _Class Cancelled_
 ###  14 Apr 2017
 
   * Jim Zheng, Pulkit Mittal
+  * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
 
 
 ### 21 Apr 2017
