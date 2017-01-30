@@ -57,6 +57,7 @@ _Class Cancelled_
 ### 7 Apr 2017
 
   * Jonathan DuMont, Terry Tan
+  * Kimi Shah, Molly Johnson 
 
 
 ###  14 Apr 2017
