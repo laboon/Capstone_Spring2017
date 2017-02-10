@@ -41,6 +41,7 @@ _Class Cancelled_
   * Charlie Hron Weigle
   * Lauren Thomson
   * Charlie Laymon
+  * Ben Muscato
 
 ### 24 Mar 2017
 
@@ -58,11 +59,12 @@ _Class Cancelled_
 ### 7 Apr 2017
 
   * Jonathan DuMont, Terry Tan
-
+  * Ian Leonard, Henrique Machado, Stephen Pappas, Alex Martin Mitro
 
 ###  14 Apr 2017
 
   * Jim Zheng, Pulkit Mittal
+  * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
 
 
 ### 21 Apr 2017
