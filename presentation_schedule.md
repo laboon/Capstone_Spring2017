@@ -40,8 +40,6 @@ _Class Cancelled_
   * John Johnson
   * Charlie Hron Weigle
   * Lauren Thomson
-  * Charlie Laymon
-  * Ben Muscato
 
 ### 24 Mar 2017
 
@@ -65,6 +63,7 @@ _Class Cancelled_
 
   * Jim Zheng, Pulkit Mittal
   * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
+  * Nathaniel Blake, Erik Sjoholm, Lun Xi
 
 
 ### 21 Apr 2017
