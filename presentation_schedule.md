@@ -48,7 +48,8 @@ _Class Cancelled_
   * Chris Thompson
   * Zachary Hankinson
   * David Robertson
-
+  * David Sweeney
+  
 ## Project Groups
 
 
