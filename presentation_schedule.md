@@ -57,7 +57,7 @@ _Class Cancelled_
 ### 7 Apr 2017
 
   * Jonathan DuMont, Terry Tan
-
+  * Ian Leonard, Henrique Machado, Stephen Pappas, Alex Martin Mitro
 
 ###  14 Apr 2017
 
