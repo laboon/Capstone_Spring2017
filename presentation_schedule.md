@@ -40,6 +40,7 @@ _Class Cancelled_
   * John Johnson
   * Charlie Hron Weigle
   * Lauren Thomson
+  * David Sweeney
 
 ### 24 Mar 2017
 
