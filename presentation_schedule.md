@@ -64,6 +64,7 @@ _Class Cancelled_
 ###  14 Apr 2017
 
   * Jim Zheng, Pulkit Mittal
+  * Ryan Hausler, Alex Lederer, Nicholas Page
   * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
 
 
