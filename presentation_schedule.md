@@ -32,19 +32,22 @@ _Class Cancelled_
   * Samuel Nigh *
   * Katee Coleman *
   * Alexander Furst *
-  * Gabriel Larson
+  * Gabriel Larson *
 
 ### 17 Feb 2017
 
-  * Seth Stayer
-  * John Johnson
-  * Charlie Hron Weigle
-  * Lauren Thomson
-  * Ben Muscato
-  * Daniel Hui
+  * Seth Stayer *
+  * John Johnson *
+  * Charlie Laymon *
+  * Charlie Hron Weigle *
+  * Lauren Thomson *
+  * Ben Muscato *
 
 ### 3 Mar 2017
+
   * Deen Lin
+  * Daniel Hui
+  
 ### 24 Mar 2017
 
   * Maurice Jenkins
@@ -55,9 +58,6 @@ _Class Cancelled_
   * David Sweeney
   
 ## Project Groups
-
-
-
 
 ### 7 Apr 2017
 
