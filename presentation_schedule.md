@@ -40,6 +40,7 @@ _Class Cancelled_
   * John Johnson
   * Charlie Hron Weigle
   * Lauren Thomson
+  * Daniel Hui
 
 ### 24 Mar 2017
 
@@ -48,7 +49,8 @@ _Class Cancelled_
   * Chris Thompson
   * Zachary Hankinson
   * David Robertson
-
+  * David Sweeney
+  
 ## Project Groups
 
 
@@ -56,12 +58,16 @@ _Class Cancelled_
 
 ### 7 Apr 2017
 
-
-
+  * Jonathan DuMont, Terry Tan
+  * Kimi Shah, Molly Johnson 
+  * Ian Leonard, Henrique Machado, Stephen Pappas, Alex Martin Mitro
 
 ###  14 Apr 2017
 
   * Jim Zheng, Pulkit Mittal
+  * Ryan Hausler, Alex Lederer, Nicholas Page
+  * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
+  * Nathaniel Blake, Erik Sjoholm, Lun Xi
 
 
 ### 21 Apr 2017
