@@ -28,10 +28,10 @@ _Class Cancelled_
 
 ### 3 Feb 2017
 
-  * Jonathan Lobo
-  * Samuel Nigh
-  * Katee Coleman
-  * Alexander Furst
+  * Jonathan Lobo *
+  * Samuel Nigh *
+  * Katee Coleman *
+  * Alexander Furst *
   * Gabriel Larson
 
 ### 17 Feb 2017
