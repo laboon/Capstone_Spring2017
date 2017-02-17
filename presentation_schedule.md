@@ -40,6 +40,7 @@ _Class Cancelled_
   * John Johnson
   * Charlie Hron Weigle
   * Lauren Thomson
+  * Daniel Hui
 
 ### 24 Mar 2017
 
