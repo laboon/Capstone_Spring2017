@@ -49,6 +49,7 @@ _Class Cancelled_
   * Deen Lin
   * Daniel Hui
   * Sai Xu
+  
 ### 24 Mar 2017
 
   * Maurice Jenkins
