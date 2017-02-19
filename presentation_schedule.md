@@ -1,3 +1,4 @@
+
 # Internship / Research Presentation Schedule
 
 All CS1950 and CS1900 students (and BIOSC1640 students who did an internship) must sign up for a date to give a five to ten minute presentation on what they worked on.  All CS1980/CS1981 (and BIOSC1640 project student) _groups_ must give a ten to fifteen minute presentation to the rest of the class demonstrating their project.
@@ -47,7 +48,7 @@ _Class Cancelled_
 
   * Deen Lin
   * Daniel Hui
-  
+  * Sai Xu
 ### 24 Mar 2017
 
   * Maurice Jenkins
