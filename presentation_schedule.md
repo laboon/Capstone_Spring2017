@@ -47,7 +47,6 @@ _Class Cancelled_
 ### 3 Mar 2017
 
   * Deen Lin
-  * Daniel Hui
   * Sai Xu
   
 ### 24 Mar 2017
@@ -66,6 +65,7 @@ _Class Cancelled_
   * Jonathan DuMont, Terry Tan
   * Kimi Shah, Molly Johnson 
   * Ian Leonard, Henrique Machado, Stephen Pappas, Alex Martin Mitro
+  * Daniel Hui
 
 ###  14 Apr 2017
 
