@@ -46,7 +46,7 @@ _Class Cancelled_
 
 ### 3 Mar 2017
 
-  * Deen Lin
+  * Deen Lin *
   * Sai Xu
   
 ### 24 Mar 2017

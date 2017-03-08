@@ -51,12 +51,15 @@ Spring 2017 Syllabus
   * TECH TALK: Software Engineering Institute
 
 7 APR 2017
+  * TECH TALK: NetApp
   * Project Presentations
   
 14 APR 2017
   * Project Presentations
+  * TECH TALK: BNY MELLON
   * Sprint 6 Ends
 
 21 APR 2017
   * Project Presentations
+  * Laboon talk: Programming Paradigms
   * Final paper due for ALL students
