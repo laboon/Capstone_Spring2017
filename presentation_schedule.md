@@ -47,7 +47,6 @@ _Class Cancelled_
 ### 3 Mar 2017
 
   * Deen Lin *
-  * Sai Xu
   
 ### 24 Mar 2017
 
@@ -74,12 +73,11 @@ _Class Cancelled_
   * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
   * Nathaniel Blake, Erik Sjoholm, Lun Xi
 
-
 ### 21 Apr 2017
 
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
   * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
-
+  * Sai Xu
 
 
 
