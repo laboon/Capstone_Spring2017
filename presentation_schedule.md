@@ -78,6 +78,7 @@ _Class Cancelled_
 ### 21 Apr 2017
 
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
+  * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
 
 
 
