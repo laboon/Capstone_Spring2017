@@ -62,7 +62,7 @@ public class Sieve {
 
 	for (int j = 0; j <= max; j++) {
 	    if (primes[j]) {
-		// System.out.println(j + " is a prime!");
+		System.out.println(j + " is a prime!");
 	    }
 	}
 	
