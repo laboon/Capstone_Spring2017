@@ -38,7 +38,7 @@ public class Sieve {
 	
 	int limit = (int) Math.ceil(Math.sqrt(max));
 	
-	for (int j = 2; j < max; j++) {
+	for (int j = 2; j < limit; j++) {
 
 	    // If this value is prime, mark all multiples of it
 	    // in the array as NOT prime (they are composite because
@@ -50,6 +50,8 @@ public class Sieve {
 		    } catch (ArrayIndexOutOfBoundsException oobex) {
 			// just walked off the edge, it's OK
 			// Ignore and continue
+			System.out.println("OOBEX - " + oobex.toString());
+			System.exit(1);
 		    }
 		}
 	    }
@@ -60,7 +62,7 @@ public class Sieve {
 
 	for (int j = 0; j <= max; j++) {
 	    if (primes[j]) {
-		System.out.println(j + " is a prime!");
+		// System.out.println(j + " is a prime!");
 	    }
 	}
 	
