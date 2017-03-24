@@ -50,12 +50,12 @@ _Class Cancelled_
   
 ### 24 Mar 2017
 
-  * Maurice Jenkins
-  * Anthony Poerio
-  * Chris Thompson
-  * Zachary Hankinson
-  * David Robertson
-  * David Sweeney
+  * Maurice Jenkins *
+  * Anthony Poerio *
+  * Chris Thompson *
+  * Zachary Hankinson *
+  * David Robertson *
+  * David Sweeney *
   
 ## Project Groups
 
