@@ -1,6 +1,8 @@
 # Get argument from command line.  If argument cannot be parsed, will just
 # return 0
+abort ("Please enter an integer") if ARGV.length < 1 
 max = ARGV[0].to_i
+abort if max < 2
 
 # Make primes a new array
 primes = []
