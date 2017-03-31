@@ -71,13 +71,14 @@ _Class Cancelled_
   * Jim Zheng, Pulkit Mittal
   * Ryan Hausler, Alex Lederer, Nicholas Page
   * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
-  * Nathaniel Blake, Erik Sjoholm, Lun Xi
+ 
 
 ### 21 Apr 2017
 
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
   * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
   * Sai Xu
+  * Nathaniel Blake, Erik Sjoholm, Lun Xi
 
 
 
