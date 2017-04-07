@@ -78,6 +78,7 @@ _Class Cancelled_
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
   * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
   * Sai Xu
+  * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz
 
 
 
