@@ -79,6 +79,8 @@ _Class Cancelled_
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
   * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
   * Sai Xu
+  * Nathaniel Blake, Erik Sjoholm, Lun Xi
+  * Atta Ebrahimi, Matthew Melchert, Jay Thompson, Jason Tucker, Anthony Tummillo
 
 
 
