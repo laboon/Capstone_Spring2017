@@ -20,4 +20,4 @@ primes = []
 # like the j in for (int j = 0; ..).  Print out the index value if the value stored
 # at that location (primes[index]) is not nil (all values in our primes array should be
 # either nil or true)
-primes.each_with_index { |x, index| puts "#{index} is a prime!" unless x.nil? }
+primes.each_with_index { |x, index| } # puts "#{index} is a prime!" unless x.nil? }
