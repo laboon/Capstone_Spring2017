@@ -68,11 +68,10 @@ _Class Cancelled_
 
 ###  14 Apr 2017
 
-  * Jim Zheng, Pulkit Mittal
-  * Ryan Hausler, Alex Lederer, Nicholas Page
-  * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
-  * Nathaniel Blake, Erik Sjoholm, Lun Xi
-  * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz
+  * Jim Zheng, Pulkit Mittal *
+  * Ryan Hausler, Alex Lederer, Nicholas Page *
+  * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford *
+  * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz *
   
 ### 21 Apr 2017
 
@@ -82,8 +81,6 @@ _Class Cancelled_
   * Daniel Nestor, Matthew Strayhorn, Joseph Patricelli, Jacob Hershey
   * Nathaniel Blake, Erik Sjoholm, Lun Xi
   * Atta Ebrahimi, Matthew Melchert, Jay Thompson, Jason Tucker, Anthony Tummillo
-
-
 
 
 
