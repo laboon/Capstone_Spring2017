@@ -72,13 +72,13 @@ _Class Cancelled_
   * Ryan Hausler, Alex Lederer, Nicholas Page
   * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
   * Nathaniel Blake, Erik Sjoholm, Lun Xi
-
+  * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz
+  
 ### 21 Apr 2017
 
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
   * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
   * Sai Xu
-  * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz
 
 
 
