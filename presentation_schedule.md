@@ -71,8 +71,9 @@ _Class Cancelled_
   * Jim Zheng, Pulkit Mittal
   * Ryan Hausler, Alex Lederer, Nicholas Page
   * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford
- 
-
+  * Nathaniel Blake, Erik Sjoholm, Lun Xi
+  * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz
+  
 ### 21 Apr 2017
 
   * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
