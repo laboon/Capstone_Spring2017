@@ -48,8 +48,6 @@ public class Sieve {
 		    try {
 			primes[k * j] = false;
 		    } catch (ArrayIndexOutOfBoundsException oobex) {
-			// just walked off the edge, it's OK
-			// Ignore and continue
 			System.out.println("OOBEX - " + oobex.toString());
 			System.exit(1);
 		    }
@@ -62,7 +60,7 @@ public class Sieve {
 
 	for (int j = 0; j <= max; j++) {
 	    if (primes[j]) {
-		System.out.println(j + " is a prime!");
+		// System.out.println(j + " is a prime!");
 	    }
 	}
 	

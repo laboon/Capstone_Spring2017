@@ -61,10 +61,10 @@ _Class Cancelled_
 
 ### 7 Apr 2017
 
-  * Jonathan DuMont, Terry Tan
-  * Kimi Shah, Molly Johnson 
-  * Ian Leonard, Henrique Machado, Stephen Pappas, Alex Martin Mitro
-  * Daniel Hui
+  * Jonathan DuMont, Terry Tan *
+  * Kimi Shah, Molly Johnson *
+  * Ian Leonard, Henrique Machado, Stephen Pappas, Alex Martin Mitro *
+  * Daniel Hui *
 
 ###  14 Apr 2017
 
@@ -79,6 +79,7 @@ _Class Cancelled_
   * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
   * Sai Xu
   * Nathaniel Blake, Erik Sjoholm, Lun Xi
+  * Atta Ebrahimi, Matthew Melchert, Jay Thompson, Jason Tucker, Anthony Tummillo
 
 
 
