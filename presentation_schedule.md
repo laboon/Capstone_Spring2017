@@ -70,17 +70,17 @@ _Class Cancelled_
 
   * Jim Zheng, Pulkit Mittal *
   * Ryan Hausler, Alex Lederer, Nicholas Page *
-  * Ritika Maknoor, Ziyao Wang, Joseph Podnar, Matthew Turley, Daniel Blackford *
+  * Ritika Maknoor, Ziyao Wang, _Joseph Podnar_, Matthew Turley, Daniel Blackford *
   * Brian Ashworth, Conor Curry, William Kurek, and Zach Romitz *
   
 ### 21 Apr 2017
 
-  * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu
-  * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse
-  * Sai Xu
-  * Daniel Nestor, Matthew Strayhorn, Joseph Patricelli, Jacob Hershey
-  * Nathaniel Blake, Erik Sjoholm, Lun Xi
-  * Atta Ebrahimi, Matthew Melchert, Jay Thompson, Jason Tucker, Anthony Tummillo
-
+  * Brennan Bayne, Kerilee Bookleiner, Jennifer Bramson, Nicholas Taglianetti, Xinhai Xu *
+  * Ariella Hanna, Mike Bowen, Francis Mangornong, Adam Mitro, Ken Morse *
+  * Sai Xu *
+  * Daniel Nestor, Matthew Strayhorn, Joseph Patricelli, Jacob Hershey *
+  * Nathaniel Blake, Erik Sjoholm, Lun Xi *
+  * Atta Ebrahimi, Matthew Melchert, Jay Thompson, Jason Tucker, Anthony Tummillo *
+  * Natalie Rittenhouse, Ryan, Junke Zhang *
 
 
